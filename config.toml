@@ -1,0 +1,9 @@
+[plugins.sh]
+
+close_window = [0x06]
+handle_mute = [0x23]
+sc_copy = [0x12, 0x53]
+
+[misc]
+
+sound_options = false
